@@ -1,0 +1,18 @@
+
+#main-header {
+  height: 72px;
+  border-bottom: 1px solid #ddd;
+  background-color: white;
+}
+
+#main-header div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  width: 100%;
+  max-width: 980px;
+  height: 72px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
